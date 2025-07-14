@@ -1,6 +1,6 @@
 # Customer Purchase Analysis Using SQL Queries 
 
- **Final Project Report (Full Jupyter Notebook)**  
+ **Final Project Report (Full Content Here)**  
 🔗 [Click here to view the complete report →](https://github.com/PALANIVEL-DS/customer-purchase-sql-analysis/blob/main/Final%20Project%20Report.ipynb)
 
 This project analyzes customer purchase behavior across electronic product sales from Sep 2023 – Sep 2024 using advanced SQL techniques.
